@@ -1,0 +1,31 @@
+title: "&0Фрэнк"
+rows: 6
+items:
+  decorations: {}
+  rewards:
+    1tier:
+      material: BLUE_SHULKER_BOX
+      displayName: ""
+      lore: []
+      slot: 8
+      commands: []
+  quests:
+    1tier:
+      1f:
+        material: STONE
+        displayName: ""
+        lore: []
+        slot: 0
+        task:
+          type: COLLECT_SEEDS
+          value: "beetroot;2"
+          amount: 64
+      2s:
+        material: STONE
+        displayName: ""
+        lore: [ ]
+        slot: 0
+        task:
+          type: COLLECT_SEEDS
+          value: "beetroot;2"
+          amount: 64

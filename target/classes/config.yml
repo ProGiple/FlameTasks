@@ -1,0 +1,28 @@
+items:
+  closed_quest:
+    material: BARRIER
+    displayName: ""
+    lore: []
+  closed_reward:
+    material: BARRIER
+    displayName: ""
+    lore: []
+  completed_quest:
+    material: LIME_STAINED_GLASS_PANE
+    displayName: ""
+    lore: []
+  collected_reward:
+    material: LIME_CONCRETE
+    displayName: ""
+    lore: []
+messages:
+  questDisabled: "&cКвест закрыт! Выполните для начала предыдущий"
+  questNotCompleted: "&cВы еще не выполнили квест!"
+  questCompletedNow: "&cКвест уже выполнен!"
+  noItems: "&cУ вас не хватает предметов!"
+  giveItems: "&aВы успешно сдали x{amount} предметов!"
+  uncompletedTaskGiver: "&cЗавершите для начала предыдущего квесто-дателя!"
+  reload: "&aВы успешно перезагрузили плагин!"
+  noPermission: "&cУ вас не хватает прав!"
+  rewardNotCompleted: "&cНаграда не доступна для получения!"
+  questCompleted: "&aКвест успешно выполнен!"

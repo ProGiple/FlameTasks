@@ -1,0 +1,23 @@
+name: FlameTasks
+version: '1.0.3.2'
+main: org.satellite.dev.progiple.flametasks.FlameTasks
+api-version: '1.16'
+depend:
+  - LunaSpring
+  - NBTAPI
+authors:
+  - ProGiple
+commands:
+  flametasks:
+    aliases:
+      - ft
+      - tasks
+      - task
+      - q
+      - flameq
+      - flamequests
+      - quests
+      - quest
+permissions:
+  flametasks.reload:
+    default: op

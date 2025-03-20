@@ -1,0 +1,34 @@
+title: "&0Старый Джек"
+rows: 6
+quest_order:
+  - "1tier:1f"
+  - "1tier:2s"
+items:
+  decorations: {}
+  rewards:
+    1tier:
+      material: BLUE_SHULKER_BOX
+      displayName: ""
+      lore: []
+      slot: 8
+      commands: []
+  quests:
+    1tier:
+      1f:
+        material: STONE
+        displayName: ""
+        lore: []
+        slot: 0
+        task:
+          type: COLLECT_SEEDS
+          value: "beetroot;2"
+          amount: 64
+      2s:
+        material: STONE
+        displayName: ""
+        lore: [ ]
+        slot: 0
+        task:
+          type: COLLECT_SEEDS
+          value: "beetroot;2"
+          amoun: 64
