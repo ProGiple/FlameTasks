@@ -1,5 +1,5 @@
 name: FlameTasks
-version: '1.0.3.2'
+version: '1.0.4'
 main: org.satellite.dev.progiple.flametasks.FlameTasks
 api-version: '1.16'
 depend:

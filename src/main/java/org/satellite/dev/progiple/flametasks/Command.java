@@ -1,8 +1,7 @@
 package org.satellite.dev.progiple.flametasks;
 
-import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
-import org.bukkit.command.TabCompleter;
+import org.bukkit.command.TabExecutor;
 import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
@@ -11,7 +10,7 @@ import org.satellite.dev.progiple.flametasks.menus.FlameMenu;
 
 import java.util.List;
 
-public class Command implements CommandExecutor, TabCompleter {
+public class Command implements TabExecutor {
     @Override
     public boolean onCommand(@NotNull CommandSender commandSender, org.bukkit.command.@NotNull Command command, @NotNull String s, @NotNull String[] strings) {
         if (strings.length >= 1) {

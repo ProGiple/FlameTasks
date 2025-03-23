@@ -6,7 +6,7 @@
 
   <groupId>org.satellite.dev.progiple</groupId>
   <artifactId>FlameTasks</artifactId>
-  <version>1.0.3.2</version>
+  <version>1.0.4</version>
   <packaging>jar</packaging>
 
   <name>FlameTasks</name>
@@ -74,7 +74,7 @@
       <dependency>
           <groupId>com.github.NovaSparkle</groupId>
           <artifactId>LunaSpring</artifactId>
-          <version>2.4.3f</version>
+          <version>2.4.9</version>
           <scope>provided</scope>
       </dependency>
       <dependency>

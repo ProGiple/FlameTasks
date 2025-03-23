@@ -4,7 +4,6 @@ org\satellite\dev\progiple\flametasks\configs\ShamanConfig.class
 org\satellite\dev\progiple\flametasks\menus\buttons\realized\QuestButton$1.class
 org\satellite\dev\progiple\flametasks\Command.class
 org\satellite\dev\progiple\flametasks\menus\menus\FrankMenu.class
-org\satellite\dev\progiple\flametasks\menus\buttons\IButton.class
 org\satellite\dev\progiple\flametasks\menus\buttons\realized\RewardButton.class
 org\satellite\dev\progiple\flametasks\Handler.class
 org\satellite\dev\progiple\flametasks\configs\JackConfig.class

@@ -4,13 +4,12 @@ import lombok.Getter;
 import lombok.Setter;
 import org.bukkit.Material;
 import org.bukkit.configuration.ConfigurationSection;
-import org.novasparkle.lunaspring.Menus.Items.Item;
 
 import java.util.ArrayList;
 import java.util.List;
 
 @Getter @Setter
-public abstract class Button extends Item implements IButton {
+public abstract class Button extends org.novasparkle.lunaspring.Menus.Items.buttons.Button {
     private List<String> defaultLore;
     public Button(Material material, String displayName, List<String> lore, int slot) {
         super(material, displayName, lore, 1, (byte) slot);
